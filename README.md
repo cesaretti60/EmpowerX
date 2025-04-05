@@ -22,5 +22,5 @@ The token **EMX** is a utility token with on-chain functionality only.
 - Telegram: [https://t.me/empowerx](https://t.me/empowerx)
 - Email: hello@empowerx.io
 
-© EmpowerX 2025 – Built with integrity, governed by community.
+© Empowerment Laboratory Società Semplice 2025 – Built with integrity, governed by community.
 
