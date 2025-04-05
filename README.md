@@ -21,7 +21,7 @@ This repository contains the smart contract for **EmpowerXToken (EMX)**, the nat
 
 ## 🔗 Testnet Deployment (Fuji)
 
-- **Contract Address**: _to be updated after deployment_
+- **Contract Address**: 0x6DBcfa93C1D46b3e3A71Fb394f7Fb353CaB4939F
 - **Explorer**: https://testnet.snowtrace.io/
 
 ## 📩 Security Contact
