@@ -26,4 +26,4 @@ This repository contains the smart contract for **EmpowerXToken (EMX)**, the nat
 
 ## 📩 Security Contact
 
-security@empowerx.io
+security@empowermentlabs.com
