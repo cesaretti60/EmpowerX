@@ -1,26 +1,29 @@
-# 📚 EmpowerX Documentation
+# EmpowerX Token (EMX)
 
-**EmpowerX** is a secure, DAO-driven incubation platform for Web3 startups, built on Avalanche. This repository contains the official documentation and governance materials of the EmpowerX ecosystem.
+This repository contains the smart contract for **EmpowerXToken (EMX)**, the native utility token of the EmpowerX ecosystem.
 
-## 🧱 What is EmpowerX?
+> ⚠️ **Note**: This version is currently deployed on the **Avalanche Fuji Testnet** for testing and review purposes. Deployment to **Avalanche Mainnet** will follow Avalaunch approval.
 
-EmpowerX combines a fully compliant legal architecture with decentralized governance to support high-potential Web3 projects. Through its native utility token **EMX**, the platform enables staking, voting, milestone-based funding, and transparent community participation — without exposing users to direct equity or regulatory risk.
+## 🔹 Token Info
 
-## 🔐 Legal Compliance
+- **Name**: EmpowerX
+- **Symbol**: EMX
+- **Total Supply**: 5,400,000 EMX
+- **Decimals**: 18
+- **Standard**: ERC20 with burnable and pausable extensions
 
-EmpowerX is structured to comply with:
-- **MiCAR** (EU Reg. 2023/1114)
-- **No equity acquisition by the holding**
-- **No yield promises or centralized fundraising**
+## 🧱 Contract Features
 
-The token **EMX** is a utility token with on-chain functionality only.
+- Minted once at deployment to the `initialOwner`
+- Functions to pause/unpause transfers
+- Burnable tokens
+- Fully compliant with OpenZeppelin standards
 
-## 📬 Contact & Community
+## 🔗 Testnet Deployment (Fuji)
 
-- Website: [https://empowerx.io](https://empowerx.io)
-- Twitter: [@empowerxDAO](https://twitter.com/empowerxDAO)
-- Telegram: [https://t.me/empowerx](https://t.me/empowerx)
-- Email: hello@empowerx.io
+- **Contract Address**: _to be updated after deployment_
+- **Explorer**: https://testnet.snowtrace.io/
 
-© Empowerment Laboratory Società Semplice 2025 – Built with integrity, governed by community.
+## 📩 Security Contact
 
+security@empowerx.io
